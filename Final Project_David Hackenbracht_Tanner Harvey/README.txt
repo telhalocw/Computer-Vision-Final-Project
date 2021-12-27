@@ -1,0 +1,3 @@
+README for Computer Vision Final Project
+
+This is the code and paper for my final project in Computer Vision at TX State. The intention of the project was to work towards a program that would analyze a picture of a plate a food and estimate the number of calories on the plate. Given the large scope of this idea, our (Tanner and me) project focused on segmenting the food from the plate, the background, and other foods. A larger description of the project can be found in the .pdf "Image Segmentation...". This project met with mixed results which are best summarized by the pictures in the images folder. Some plates were very well segmented while others, not so much.
